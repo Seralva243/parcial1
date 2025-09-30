@@ -1,0 +1,13 @@
+class biblioteca():
+        def __init__(self, comedia, tragedia, ficcion)
+                libros1: comedia 
+                libros2: tragedia
+                libros3: ficcion
+ 
+                
+class libro():
+   def __init__(self, libros1, libros2, libros3)
+         if(self(input(buscar libro )))
+            print(libros1,libros2,libros3 )
+            
+        
