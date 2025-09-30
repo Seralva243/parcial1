@@ -1,0 +1,13 @@
+        from biblioteca from usuario 
+        from nuevousuario from main
+
+        print(input(  prompt=MENU PRINCIPAL   ))
+        print(input(prompt=1. buscar libro))
+        print(input(prompt=2. registrar nuevo libro))
+        print(input(prompt=3. registrar nuevo usuario))
+
+main():
+
+
+
+return
