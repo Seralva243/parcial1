@@ -1,0 +1,4 @@
+class nuevousuario():
+        def __init__(self, nombre, edad)
+                nombre ("")
+                edad ("")
